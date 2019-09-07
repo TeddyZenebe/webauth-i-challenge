@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/TeddyZenebe/webauth-i-challenge#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "knex": "^0.19.3",
     "sqlite3": "^4.1.0"
